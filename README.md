@@ -1,7 +1,7 @@
 # E-Commerce_Week13_AGM
 ![GitHub license](https://img.shields.io/badge/license-MIT-yellow.svg)
 ## Description
-I was given a task to build the back end for an e-commerce site by modifying starter code. I configured a working Express.js API to use Sequelize to interact with my MySQL database. When logged into an API Platform like Insomnia or Postman, a user can search using a GET route to see products, categories, or tags. They can also search for by individual ids. There are also features to test POST, PUT, and DELETE routes to successfully create, update, and delete data in teh database.
+I was given a task to build the back end for an e-commerce site by modifying starter code. I configured a working Express.js API to use Sequelize to interact with my MySQL database. When logged into an API Platform like Insomnia or Postman, a user can search using a GET route to see products, categories, or tags. They can also search for by individual ids. There are also features to test POST, PUT, and DELETE routes to successfully create, update, and delete data in the database.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -37,12 +37,7 @@ node server.js or nodemon server.js (if you have nodemon installed)
 
 ### Walk through video
 
-<a href="#" target="_blank">Walk through video</a>
-
-### Screenshots
-
-
-
+<a href="https://youtu.be/V8q9dUmZBf4" target="_blank">Walk through video</a>
 
 
 ## Credits
